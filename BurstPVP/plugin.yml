@@ -1,0 +1,19 @@
+##  Plugin Information  ##
+name: BurstPVP
+version: 1.1
+main: com.happytarn.burstPVP.Main
+description:
+##  Original Author     ##
+author: happytarn
+commands:
+    burstpvp:
+      usage: /bp help - to see the help
+      aliases: [bp]
+      description: To see the BurstPVP help.
+    pvp:
+      usage: /pvp help - to see the help
+      description: To see the pvp help.
+permissions:
+    hapitanCmd.burstpvp.admin:
+        default: op
+        description: Can BurstPVP Reload.

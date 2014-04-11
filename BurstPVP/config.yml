@@ -1,0 +1,19 @@
+# BurstPVP Configuration file
+#==================#
+#   Basic Config   #
+#==================#
+#Winner location
+#worldName,x,y,z
+WINNER_LOCATION: world,0,0,0
+
+#LootChest location
+#Large chest Only
+#worldName,x,y,z
+LOOT_LOCATION_1: world,0,0,0
+LOOT_LOCATION_2: world,0,0,0
+LOOT_LOCATION_3: world,0,0,0
+LOOT_LOCATION_4: world,0,0,0
+LOOT_LOCATION_5: world,0,0,0
+LOOT_LOCATION_6: world,0,0,0
+LOOT_LOCATION_7: world,0,0,0
+LOOT_LOCATION_8: world,0,0,0
